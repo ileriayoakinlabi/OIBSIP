@@ -1,1 +1,13 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-08-03 18:56 -0400
+Nmap scan report for 192.168.56.2
+Host is up (0.0037s latency).
+Not shown: 997 filtered tcp ports (no-response)
 
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+MAC Address: 08:00:27:55:5B:89 (Oracle VirtualBox virtual NIC)
+
+Nmap done: 1 IP address (1 host up) scanned in 6.97 seconds

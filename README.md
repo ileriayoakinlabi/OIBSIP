@@ -1,5 +1,4 @@
 # OIBSIP
-# OIBSIP
 
 ## Oasis Infobyte Cyber Security Internship
 
@@ -9,9 +8,7 @@ This repository contains all projects, reports, scripts, and documentation compl
 
 ---
 
-## Author
-
-**Ileriayo Akinlabi**
+## Author - Ileriayo Omotayo Akinlabi
 
 MSc Cyber Security Graduate
 

@@ -19,7 +19,7 @@ GitHub Portfolio
 | Task | Status |
 |------|--------|
 | Task 1 – Network Reconnaissance Using Nmap | ✅ Completed |
-| Task 2 – Firewall Configuration | ⏳ Coming Soon |
+| Task 2 – Firewall Configuration | ✅ Completed |
 | Task 3 – SQL Injection | ⏳ Coming Soon |
 | Task 4 – Security Report | ⏳ Coming Soon |
 

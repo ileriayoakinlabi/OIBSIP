@@ -20,8 +20,8 @@ GitHub Portfolio
 |------|--------|
 | Task 1 – Network Reconnaissance Using Nmap | ✅ Completed |
 | Task 2 – Firewall Configuration | ✅ Completed |
-| Task 3 – SQL Injection |  ✅ Coming Soon |
-| Task 4 – Security Report | ✅ Coming Soon |
+| Task 3 – SQL Injection |  ✅ Completed |
+| Task 4 – Security Report | ✅ Completed |
 
 Each task includes:
 
